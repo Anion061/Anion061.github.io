@@ -1,5 +1,5 @@
 # Anushka Aggarwal
-
+![](/images/1_crop.jpg)
 ### Education 
 - Maxfort School Rohini
 - Bhagwan Mahavir College of Engineering and Management(BMCEM),IPU
@@ -22,4 +22,6 @@
 - Objective: Analise, Manipulate and visualize the given data.
 - Language: Python
 - Libraries: Pandas, matplotlib, seaborn, numpy
-- Data Source: [Kaggle: Retail Shop case study Dataset](https://www.kaggle.com/amark720/retail-shop-case-study-dataset) 
+- Data Source: [Kaggle: Retail Shop case study Dataset](https://www.kaggle.com/amark720/retail-shop-case-study-dataset)
+
+
