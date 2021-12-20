@@ -1,4 +1,3 @@
-
 # Anushka Aggarwal
 
 ### Education 
