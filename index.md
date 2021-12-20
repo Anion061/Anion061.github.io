@@ -44,3 +44,13 @@
 
 ![](/images/retail.png)
 
+## Hobbies:
+
+- Sketching and Drawing
+   - It's amazing how you can fill a blank space with just your hands and a little bit of imagination. 
+   - And however the hectic time, I can always find myself being relax when I have a pencil and a blank sheet in my hand.  
+- Playing Batminton 
+   - It's a great way to spend time with friends while also allowing my eyes to unwind from their constant exposure to devices.  
+- Reading
+   - Stories are my world. When I'm down, they're my constant companions.  
+
