@@ -1,9 +1,14 @@
-# Anushka Aggarwal
 ![](/images/1_crop.jpg)
+# Anushka Aggarwal
+
 ### Education 
-- Maxfort School Rohini
-- Bhagwan Mahavir College of Engineering and Management(BMCEM),IPU
-- Indian Indtitute of Technology Madras(IITM)
+- Maxfort School Rohini 
+  - 10th, 2017
+  - 12th, 2019
+- Bhagwan Mahavir College of Engineering and Management(BMCEM), IPU 
+  - B.tech in Computer Science Engineering(CSE), 2019-Present
+- Indian Institute of Technology Madras(IITM)
+  - B.Sc. in Progamming and Data Science, 2021-Present
 
 ### Projects
 #### Heart Disease Detector
