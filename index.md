@@ -1,6 +1,6 @@
 # Anushka Aggarwal
 
-### Education 
+## Education 
 - Maxfort School Rohini 
   - 10th, 2017
   - 12th, 2019
@@ -9,7 +9,11 @@
 - Indian Institute of Technology Madras(IITM)
   - B.Sc. in Progamming and Data Science, 2021-Present
 
-### Projects:
+## Experience
+- Verzeo (Mar'21-Apr'21)
+  - Completed an AI internship training program
+
+## Projects:
 
 
 #### Heart Disease Detector 
