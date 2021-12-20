@@ -1,4 +1,4 @@
-*Anushka Aggarwal
+# Anushka Aggarwal
 
-***Education 
-***Projects
+### Education 
+### Projects
