@@ -1,5 +1,6 @@
 # Anushka Aggarwal
 
+
 ## Education 
 - Maxfort School Rohini 
   - 10th, 2017
@@ -21,14 +22,16 @@
 - Language: Python
 - Libraries used: Pandas and Keras 
 - Data Source: [Kaggle: Heart Disease UCI](https://www.kaggle.com/ronitf/heart-disease-uci)
+- Repository: [https://github.com/Anion061/Heart_Disease_Detector](https://github.com/Anion061/Heart_Disease_Detector)
 
 ![](/images/stethoscope.png)
 
-#### Mask Detector
+#### Face Mask Detector
 - Objective: To determine if mask is worn or not based on our dataset
 - Language: Python
 - Libraries Used: os, cv2, numpy, sklearn, tensorflow, matplotlib, keras.
 - Data Source: [Face Mask Detection Dataset](https://www.kaggle.com/omkargurav/face-mask-dataset)
+- Repository: [https://github.com/Anion061/Face_Mask_Detection](https://github.com/Anion061/Face_Mask_Detection)
 
 ![](/images/mask1.png)
 
@@ -37,6 +40,7 @@
 - Language: Python
 - Libraries: Pandas, matplotlib, seaborn, numpy
 - Data Source: [Kaggle: Retail Shop case study Dataset](https://www.kaggle.com/amark720/retail-shop-case-study-dataset)
+- Repositorry: []()
 
 ![](/images/retail.png)
 
