@@ -36,13 +36,22 @@
 ![](/images/mask1.png)
 
 #### Retail store
-- Objective: Analise, Manipulate and visualize the given data.
+- Objective: To Analise, Manipulate and visualize the given data.
 - Language: Python
 - Libraries: Pandas, matplotlib, seaborn, numpy
 - Data Source: [Kaggle: Retail Shop case study Dataset](https://www.kaggle.com/amark720/retail-shop-case-study-dataset)
-- Repositorry: []()
+- Repositorry: [https://github.com/Anion061/Retail-Store](https://github.com/Anion061/Retail-Store)
 
 ![](/images/retail.png)
+
+#### Titanic
+- Objective: To predict likelyhood of a person's survival through a model based on an existing data.
+- Language: Python
+- Libraries: Pandas, matplotlib, seaborn, numpy, keras, tensorflow
+- Data Source: [Kaggle: Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
+- Repositorry: [https://github.com/Anion061/Titanic](https://github.com/Anion061/Titanic)
+
+![](/images/ship1.png)
 
 ## Hobbies:
 ![](/images/paint-palette.png)![](/images/badminton.png)![](/images/open-book.png)
