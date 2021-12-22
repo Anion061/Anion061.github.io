@@ -61,6 +61,6 @@
 - **Playing Batminton** 
    - It's a great way to spend time with friends while also allowing my eyes to unwind from their constant exposure to devices.  
 - **Reading**
-   - There is a quote by one of my favourite author J.K. Rowling, 
+   - here is a quote by one of my favourite author J.K. Rowling, 
    - "I do believe something very magical can happen when you read a good book"
-   - And That pretty much sums it up for me.
+   - And that pretty much sums it up for me.
