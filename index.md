@@ -36,7 +36,7 @@
 ![](/images/mask1.png)
 
 #### Retail store
-- Objective: To Analise, Manipulate and visualize the given data.
+- Objective: To Analyse, Manipulate and visualize the given data.
 - Language: Python
 - Libraries: Pandas, matplotlib, seaborn, numpy
 - Data Source: [Kaggle: Retail Shop case study Dataset](https://www.kaggle.com/amark720/retail-shop-case-study-dataset)
