@@ -51,7 +51,7 @@
 - Data Source: [Kaggle: Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
 - Repositorry: [https://github.com/Anion061/Titanic](https://github.com/Anion061/Titanic)
 
-![](/images/ship1.png)
+![](/images/ship.png)
 
 ## Hobbies:
 ![](/images/paint-palette.png)![](/images/badminton.png)![](/images/open-book.png)
