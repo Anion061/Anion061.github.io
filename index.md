@@ -64,3 +64,5 @@
    - here is a quote by one of my favourite author J.K. Rowling, 
    - "I do believe something very magical can happen when you read a good book"
    - And that pretty much sums it up for me.
+## Contact Details:
+- Email: anushkaaggarwal61@gmail.com
