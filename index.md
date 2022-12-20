@@ -2,13 +2,14 @@
 
 
 ## Education 
+- Guru Gobind Singh Indraprastha University(GGSIPU)
+  - B.Tech in Computer Science Engineering(CSE), 2019-Present
+- Indian Institute of Technology Madras(IITM)
+  - B.S. in Progamming and Data Science, 2021-Present
 - Maxfort School Rohini 
   - 10th, 2017
   - 12th, 2019
-- Bhagwan Mahavir College of Engineering and Management(BMCEM), IPU 
-  - B.tech in Computer Science Engineering(CSE), 2019-Present
-- Indian Institute of Technology Madras(IITM)
-  - B.Sc. in Progamming and Data Science, 2021-Present
+
 
 ## Experience
 - Verzeo (Mar'21-Apr'21)
